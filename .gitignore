@@ -1,0 +1,31 @@
+### **.gitignore**
+
+# Python Bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment Variables
+.env
+
+# Streamlit Cache
+.streamlit/
+
+# Virtual Environment
+venv/
+env/
+
+# Log files
+*.log
+*.tmp
+
+# Temporary files
+*.swp
+*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
