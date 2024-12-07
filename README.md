@@ -24,8 +24,8 @@ This project allows users to interact with content from websites or PDFs in a co
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/palnakrani-ai/chat-with-websites-and-pdfs.git
+cd chat-with-websites-and-pdfs
 ```
 
 ### 2. Install Dependencies
@@ -79,19 +79,6 @@ Open the app in your browser at `http://localhost:8501`.
 
 3. **Clear Chat:**
    - Use the "Clear Chat History" button in the sidebar to reset the chat and vector store.
-
----
-
-## Directory Structure
-
-```
-📁 Project Root
-├── app.py                # Main application script
-├── requirements.txt      # Python dependencies
-├── .env                  # Environment variables
-├── .gitignore            # Ignored files for Git
-└── README.md             # Documentation
-```
 
 ---
 
